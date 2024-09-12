@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../yellowcard"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "dribbble"
+  }
+}

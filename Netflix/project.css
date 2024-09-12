@@ -1,0 +1,292 @@
+/* body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+.navbar {
+  background-color: #210f60;
+
+  padding: 20px;
+  text-align: center;
+  position: fixed; 
+  width: 100%;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+.navbar h1 {
+  color: white;
+  border: 8px solid white;
+  padding: 6px 12px;
+  display: inline-block;
+  border-radius: 36px;
+} */
+/* .boxes {
+  background-color: white;
+  color: black;
+   width: 5%; 
+  box-sizing: border-box;
+} */
+/* .box-1 {
+  
+  margin: 20px;
+  padding: 20px;
+} */
+/* .box-2 {
+  
+  position: relative;
+  margin: 20px;
+  padding: 20px;
+} */
+/* .box-3 {
+  
+  position: absolute;
+  
+} */
+/* p.say {
+  position: sticky;
+  bottom: 10px;
+  right: 100px;
+} */
+/* .boxes {
+  position: relative;
+
+  display: flex;
+} */
+/* .box1 { */
+/* 
+  width: 300px;
+  height: 200px; */
+/* } */
+/* .box2 {
+  top: ;
+  width: 100px;
+  height: 50px;
+} */
+/* .boxes {
+  display: flex;
+}
+.box-1 {
+  background-color: rebeccapurple;
+  position: absolute;
+  width: 100px;
+  left: 50px;
+  top: 50px;
+  height: 100px; */
+/* width: 200px;
+  height: 100px;
+  margin: 20px;
+  position: absolute;
+  bottom: 0px;
+  left: 70px; */
+/* top: 20px; */
+/* } */
+/* .box-2 {
+  background-color: chocolate;
+  position: absolute;
+  top: -30px;
+  right: 170px;
+  width: 200px;
+  height: 200px; */
+/* width: 400px;
+  height: 200px;
+  margin: 20px; */
+/* } */
+/* .box-3 {
+  position: relative;
+  width: 300px;
+  height: 300px;
+  margin: 50px auto;
+  background-color: cadetblue; */
+/* width: 600px;
+  height: 300px;
+  margin: 20px; */
+/* } */
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background: url(https://www.mtn.ng/wp-content/uploads/2024/01/MTN-YoutubeBuffet-Web1.jpg);
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+/* .parent{
+  background-color: red;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  column-gap: 50px;
+}
+#sub1 p{
+  font-weight: bolder;
+  color: white;
+  font-size: 20px;
+}
+.child1{
+  width: 100%;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  margin-top: 20px;
+  border-bottom: 20px;
+  column-gap: 50px;
+  background-color: white;
+  align-items: center;
+  border-radius: 5px;
+}
+.child2{
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
+.child2 input{
+  padding: 10px;
+  width: 300px;
+  outline: none;
+}
+.child2 button{
+  color: red;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: white;
+}
+.parent2{
+  background-color: lightblue;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+.sub3{
+  display: flex;
+  flex-direction: row;
+  line-height: 0;
+  border: 0;
+  font-size: ;
+}
+.sub2{
+  width: 174px;
+  margin: 0;
+  padding: 0;
+}
+#mee1{
+  background-color: darkblue;
+  border-radius: 20px;
+  padding: 2px;
+}
+
+.sub2 p span{
+  font-size: 14px;
+}
+.sub3 p{
+  width: 50%;
+} */
+
+.navbar {
+  /* background-color: black; */
+  /* z-index: 200000; */
+  /* position: fixed; */
+}
+.section1 {
+  display: flex;
+  flex-direction: row;
+  gap: 2rem;
+  margin: 10px;
+  /* padding: 0; */
+  margin-left: 120px;
+  /* background-color: black; */
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  align-items: center;
+}
+.section1 p a {
+  text-decoration: none;
+  color: white;
+  /* padding: 0; */
+}
+.section2 {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(255, 203, 5);
+  gap: 3rem;
+  margin: 0 35px;
+  align-items: center;
+  padding: 20px;
+  border-radius: 5px;
+}
+.section2 img {
+  width: 15%;
+}
+.section2 p a {
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+footer {
+  background-color: #202020;
+  color: white;
+  margin-top: 900px;
+  margin-bottom: 0;
+  padding: 100px 150px;
+  border-radius: 20px;
+
+  /* padding: 20px; */
+}
+select {
+  border-color: transparent;
+  /* border: none; */
+  outline: none;
+  background-color: #202020;
+  color: white;
+  font-size: 18px;
+}
+.section3 .sub1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.section3 .sub1 .sub1a {
+  display: flex;
+  align-items: center;
+  /* justify-content: space-between; */
+  gap: 10px;
+  font-weight: 500;
+}
+.section3 .sub1 .sub1b a {
+  gap: 30px;
+  color: rgb(255, 203, 5);
+  font-weight: 500;
+  font-size: 15px;
+}
+.section3 .sub1 .sub1b {
+  gap: 30px;
+}
+.sub2 a {
+  display: block;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  /* color: white; */
+}
+.section4 {
+  margin-top: 60px;
+  display: flex;
+  gap: 40px;
+  font-size: 15px;
+  margin-bottom: 50px;
+}
+.section4 a {
+  color: white;
+}
+.section5 p {
+  font-size: 15px;
+}

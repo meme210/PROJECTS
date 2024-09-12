@@ -1,0 +1,21 @@
+{
+  "folders": [
+	{
+		"name": "yellowcard",
+		"path": "D:/yellowcard"
+	},
+	{
+		"name": "Netflix",
+		"path": "D:/Netflix"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "../yellowcard"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Netflix"
+  }
+}
